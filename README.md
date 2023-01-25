@@ -4,11 +4,12 @@ GitHub is an oper source control system, helps keep track of developers code for
 Webstorm, Git and GitHub
 To Create a Webstorm File: Hit file, new, and choose any option (as you would with a Word Document). 
 Adding Files to Git: Click Add option in Git. 
-Step 1: Install Webstorm from this link (https://www.jetbrains.com/student)
-Step 2: Install Git from this link (https://www.git-scm.com/downloads) 
-Step 3: Setup a GitHub account at this link: (https://github.com/join) 
-Step 4: Use an email/username and setup a password 
-Step 5: Connect your GitHub account to your downloaded version of Webstorm: 
+1: Install Webstorm from this link (https://www.jetbrains.com/student)
+2: Install Git from this link (https://www.git-scm.com/downloads) 
+3: Setup a GitHub account at this link: (https://github.com/join) 
+4: Use an email/username and setup a password 
+
+Connect your GitHub account to your downloaded version of Webstorm: 
   1. Open Webstorm 
   2. PRess Crtl, Alt, S for your Webstorm preferences and select Git
   3. Select the path to your git.exe file.
