@@ -9,17 +9,17 @@ Adding Files to Git: Click Add option in Git.
 3: Setup a GitHub account at this link: (https://github.com/join) 
 4: Use an email/username and setup a password 
 
-Connect your GitHub account to your downloaded version of Webstorm: 
+A. Connect your GitHub account to your downloaded version of Webstorm: 
   1. Open Webstorm 
   2. PRess Crtl, Alt, S for your Webstorm preferences and select Git
   3. Select the path to your git.exe file.
-How To Create New Repository on GitHub
+B. How To Create New Repository on GitHub
   1. Very top right corner there is a "+" sign, click that 
   2. Choose "Create New Repository" 
-How TO Create a New Repository on Webstorm 
+C. How TO Create a New Repository on Webstorm 
   1. Open Webstorm 
   2. Select VCS, and click the Create Repository option, and hit OK
- Importing Repository from GitHub
+D.Importing Repository from GitHub
   1. Either to Git or Webstorm, going into VCS 
   2. Enter GitHub repository name, and enter local path
 After all is done, make sure to hit "Commit Changes" (its similiar to hitting the save button on any document or file. 
