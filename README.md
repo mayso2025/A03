@@ -55,7 +55,7 @@ Glossary:
 
 11.**Push:** Allows users to put repository files to remote repository 
 
-12.**Pull:**the way to allow developers to suggest changes/fixes to any piece of code, any change in code is shown in different colors depending on the number of collaborations.
+12.**Pull:** the way to allow developers to suggest changes/fixes to any piece of code, any change in code is shown in different colors depending on the number of collaborations.
 
 13.**Remote:** Repository that is not your own, essentially someone else's repository, that you can interact/send files/retrieve files from other repositories
 
