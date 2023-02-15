@@ -37,3 +37,19 @@ integration.html
 3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 
 19, 2019, from 
 https://guides.github.com/activities/hello-world/ 
+https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=The%20git%20fetch%20command%20downloads,else%20has%20been%20working%20on.
+
+Glossary: 
+
+**Branch**: essentially a branch is a copy of the existing repository allowing you to keep an older version of the repository while you update the main one.
+**Clone:** a direct copy of a main repository branch or just the main code in general.
+**Commit:** the main button that saves/commit the changes you make to any file in a repository
+**Fetch:** Downloads files from remote repository to local repository (cloud to local) 
+**GIT:** Addon to Github which allows users to distribute files from Github via Git
+**Github: A version control system used to help keep track of changes in web developer's works
+**Merge:** Allows code to be merged into main file in repository
+**Merge Conflict:** When attempting to  pull request/merge, the code thats in one file main conflcit with the code in main. 
+**Push:** Allows users to put repository files to remote repository 
+**Pull:**the way to allow developers to suggest changes/fixes to any piece of code, any change in code is shown in different colors depending on the number of collaborations.
+**Remote:** Repository that is not your own, essentially someone else's repository, that you can interact/send files/retrieve files from other repositories
+**Repository:** a place to store/organize a singular project containing various files reltated to said project
